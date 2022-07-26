@@ -3,7 +3,7 @@ I edited the code to increase the animation speeds so I could have better high s
 I will publish my changes here in this fork soon.
 Below is the original readme.
 
-
+--------------------------------------------------------------------------------------
 
 
 [![GitHub version](https://badge.fury.io/gh/tobiasBielefeld%2FSimple-Solitaire.svg)](https://badge.fury.io/gh/tobiasBielefeld%2FSimple-Solitaire)
