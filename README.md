@@ -1,7 +1,10 @@
-### To be edited further:
+# To be edited further:
 I edited the code to increase the animation speeds so I could have better high scores.
 I will publish my changes here in this fork soon.
 Below is the original readme.
+
+
+
 
 [![GitHub version](https://badge.fury.io/gh/tobiasBielefeld%2FSimple-Solitaire.svg)](https://badge.fury.io/gh/tobiasBielefeld%2FSimple-Solitaire)
 ![license](http://img.shields.io/badge/license-GPLv3+-brightgreen.svg)
